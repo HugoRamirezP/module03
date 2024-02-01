@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(132, 209, 239, 0.63);
+    color: black;
+    text-align: center;
+}
+img{
+    width: 400px;
+    border-radius: 16px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+footer{
+    background-color: rgba(98, 152, 173, 0.63);
+    padding: 3px 3px;
+    text-align: center;
+    color: rgba(43, 69, 80, 0.833);
+}
+ul{
+    list-style-type: none;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    color: azure;
+}
+a:active{
+    color: dodgerblue;
+}
+#cite{
+    font-size: 10px;
+}
